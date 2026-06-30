@@ -1,10 +1,13 @@
 {
-	"dependencies": {
-		"@nestjs/config": "^4.0.4",
-		"@nestjs/swagger": "^11.4.4",
-		"@nestjs/terminus": "^11.1.1",
-		"class-transformer": "^0.5.1",
-		"class-validator": "^0.15.1",
-		"swagger-ui-express": "^5.0.1"
-	}
+  "name": "skynet-development",
+  "private": true,
+  "version": "1.0.0",
+  "packageManager": "pnpm@11.9.0",
+  "scripts": {
+    "dev": "pnpm --filter backend start:dev",
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "lint": "pnpm -r lint",
+    "format": "pnpm -r format"
+  }
 }
