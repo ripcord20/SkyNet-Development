@@ -1,0 +1,13 @@
+| Column              |
+| ------------------- |
+| invoice_number      |
+| customer_service_id |
+| invoice_date        |
+| due_date            |
+| subtotal            |
+| discount            |
+| tax                 |
+| total               |
+| paid_amount         |
+| remaining           |
+| status              |

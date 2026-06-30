@@ -1,0 +1,14 @@
+| Column    |
+| --------- |
+| username  |
+| password  |
+| profile   |
+| ip_pool   |
+| local_ip  |
+| remote_ip |
+| caller_id |
+| last_seen |
+| uptime    |
+| bytes_in  |
+| bytes_out |
+| status    |

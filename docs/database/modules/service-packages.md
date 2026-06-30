@@ -1,0 +1,14 @@
+| Kolom            | Type          |
+| ---------------- | ------------- |
+| id               | BIGINT        |
+| uuid             | CHAR(36)      |
+| category_id      | BIGINT        |
+| package_name     | VARCHAR(100)  |
+| download_speed   | INT           |
+| upload_speed     | INT           |
+| burst_speed      | INT           |
+| price            | DECIMAL(12,2) |
+| installation_fee | DECIMAL(12,2) |
+| tax              | DECIMAL(12,2) |
+| description      | TEXT          |
+| is_active        | BOOLEAN       |

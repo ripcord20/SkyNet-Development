@@ -1,0 +1,15 @@
+# Invoice Status
+
+DRAFT
+
+ISSUED
+
+PARTIAL
+
+PAID
+
+OVERDUE
+
+VOID
+
+CANCELLED

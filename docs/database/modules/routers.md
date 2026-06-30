@@ -1,0 +1,14 @@
+| Column             | Type         |
+| ------------------ | ------------ |
+| id                 | BIGINT       |
+| uuid               | CHAR(36)     |
+| router_name        | VARCHAR(100) |
+| brand              | ENUM         |
+| model              | VARCHAR(100) |
+| ip_address         | VARCHAR(50)  |
+| api_port           | INT          |
+| username           | VARCHAR(100) |
+| encrypted_password | TEXT         |
+| version            | VARCHAR(50)  |
+| location_id        | BIGINT       |
+| status             | ENUM         |

@@ -1,0 +1,11 @@
+# Device Status
+
+ONLINE
+
+OFFLINE
+
+MAINTENANCE
+
+DISABLED
+
+UNKNOWN

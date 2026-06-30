@@ -1,0 +1,13 @@
+# ONT Status
+
+ONLINE
+
+OFFLINE
+
+LOS
+
+LOW_RX
+
+REBOOTING
+
+UNKNOWN

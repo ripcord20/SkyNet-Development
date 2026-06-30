@@ -83,3 +83,18 @@ temp/
 # Misc
 # =========================
 *.tsbuildinfo
+# Temporary
+project-tree.txt
+project-tree-clean.txt
+
+# Generated
+generated/
+
+# Local database
+*.db
+
+# Logs
+*.tmp
+
+# VSCode Settings
+.vscode/settings.json

@@ -1,0 +1,46 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "mysql"
+}
+
+enum UserRole {
+  OWNER
+  SUPER_ADMIN
+  ADMIN
+  FINANCE
+  NOC
+  HELPDESK
+  TECHNICIAN
+  MARKETING
+  CUSTOMER
+}
+
+enum CustomerStatus {
+  ACTIVE
+  PENDING
+  INSTALLATION
+  SUSPENDED
+  TERMINATED
+  CANCELLED
+}
+
+enum InvoiceStatus {
+  DRAFT
+  ISSUED
+  PARTIAL
+  PAID
+  OVERDUE
+  VOID
+  CANCELLED
+}
+
+enum Severity {
+  INFO
+  WARNING
+  MAJOR
+  CRITICAL
+}

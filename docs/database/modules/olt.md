@@ -1,0 +1,10 @@
+| Column   |
+| -------- |
+| vendor   |
+| model    |
+| hostname |
+| ip       |
+| snmp     |
+| api      |
+| firmware |
+| location |

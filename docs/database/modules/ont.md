@@ -1,0 +1,13 @@
+| Column        |
+| ------------- |
+| serial_number |
+| vendor        |
+| model         |
+| firmware      |
+| rx_power      |
+| tx_power      |
+| temperature   |
+| uptime        |
+| last_inform   |
+| customer_id   |
+| pon_port_id   |

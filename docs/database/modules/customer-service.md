@@ -1,0 +1,11 @@
+| Column             |
+| ------------------ |
+| customer_id        |
+| service_package_id |
+| pppoe_account_id   |
+| ont_id             |
+| router_id          |
+| activation_date    |
+| expired_date       |
+| billing_cycle      |
+| status             |
